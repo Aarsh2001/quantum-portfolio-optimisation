@@ -11,7 +11,7 @@ We use qGANs on stock market data to create a model that can predict future tren
 PennyLane <br>
 Qiskit <br>
 Amazon Braket <br>
-Google FLOQ <br>
+Sandbox@Alphabet FLOQ <br>
 
 ## File Structure
 data/ - contains stock market data in sequences, and notbooks creating that data <br>
